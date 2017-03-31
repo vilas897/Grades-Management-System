@@ -1,0 +1,228 @@
+
+
+Welcome to Kendriya Vidyalaya Results
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Sub Menu:
+1. Add teacher
+2. Add student
+
+Enter option: 
+
+Enter the details of the teacher to be added: 
+Enter the name of teacher: Enter teacher id number: 
+Enter subject name: 
+Enter subject code: 
+
+The teacher is added
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Sub Menu:
+1. Add teacher
+2. Add student
+
+Enter option: 
+
+Enter the details of the teacher to be added: 
+Enter the name of teacher: Enter teacher id number: 
+Enter subject name: 
+Enter subject code: 
+
+The teacher is added
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Sub Menu:
+1. Add teacher
+2. Add student
+
+Enter option: 
+
+Enter the details of the teacher to be added: 
+Enter the name of teacher: Enter teacher id number: 
+Enter subject name: 
+Enter subject code: 
+
+The teacher is added
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Sub Menu:
+1. Add teacher
+2. Add student
+
+Enter option: 
+
+Enter the details of the teacher to be added: 
+Enter the name of teacher: Enter teacher id number: 
+Enter subject name: 
+Enter subject code: 
+
+The teacher is added
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Sub Menu:
+1. Add teacher
+2. Add student
+
+Enter option: 
+
+Enter the details of the teacher to be added: 
+Enter the name of teacher: Enter teacher id number: 
+Enter subject name: 
+Enter subject code: 
+
+The teacher is added
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Sub Menu:
+1. Add teacher
+2. Add student
+
+Enter option: 
+
+Enter the details of the student to be added: 
+Enter the name: 
+Enter the roll number: 
+
+The student is added
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Enter teacher id: 
+
+Upload marks of all students for the subject english
+Enter marks of student roll number 53 : 
+All student marks have been uploaded successfully
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Enter teacher id: 
+
+Upload marks of all students for the subject maths
+Enter marks of student roll number 53 : 
+All student marks have been uploaded successfully
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Enter teacher id: 
+
+Upload marks of all students for the subject science
+Enter marks of student roll number 53 : 
+All student marks have been uploaded successfully
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Enter teacher id: 
+
+Upload marks of all students for the subject social
+Enter marks of student roll number 53 : 
+All student marks have been uploaded successfully
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Enter teacher id: 
+
+Upload marks of all students for the subject computer
+Enter marks of student roll number 53 : 
+All student marks have been uploaded successfully
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Enter student roll no: 
+
+Consolidated report: 
+Name: vilas
+
+Roll No: 53
+Marks: 
+Subject 1 : 90
+Subject 2 : 80
+Subject 3 : 70
+Subject 4 : 60
+Subject 5 : 65
+Percentage : 73
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 

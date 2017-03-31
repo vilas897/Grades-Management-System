@@ -1,0 +1,129 @@
+
+
+Welcome to Kendriya Vidyalaya Results
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Sub Menu:
+1. Add teacher
+2. Add student
+
+Enter option: 
+
+Enter the details of the teacher to be added: 
+Enter the name of teacher: Enter teacher id number: 
+Enter subject name: 
+Enter subject code: 
+
+The teacher is added
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Sub Menu:
+1. Add teacher
+2. Add student
+
+Enter option: 
+
+Enter the details of the student to be added: 
+Enter the name: 
+Enter the roll number: 
+
+The student is added
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Sub Menu:
+1. Add teacher
+2. Add student
+
+Enter option: 
+
+Enter the details of the student to be added: 
+Enter the name: 
+Enter the roll number: 
+
+The student is added
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Enter teacher id: 
+
+Upload marks of all students for the subject english
+Enter marks of student roll number 1 : 
+Enter marks of student roll number 2 : 
+All student marks have been uploaded successfully
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Enter student roll no: 
+
+Consolidated report: 
+Name: xyz
+
+Roll No: 1
+Marks: 
+Subject 1 : Not yet declared
+Subject 2 : Not yet declared
+Subject 3 : Not yet declared
+Subject 4 : 80
+Subject 5 : Not yet declared
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Enter student roll no: 
+
+Consolidated report: 
+Name: qwerty
+
+Roll No: 2
+Marks: 
+Subject 1 : Not yet declared
+Subject 2 : Not yet declared
+Subject 3 : Not yet declared
+Subject 4 : 70
+Subject 5 : Not yet declared
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 

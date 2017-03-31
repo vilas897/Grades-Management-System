@@ -1,0 +1,68 @@
+
+
+Welcome to Kendriya Vidyalaya Results
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Enter teacher id: 
+
+Upload marks of all students for the subject english
+Enter marks of student roll number 1 : 
+Enter marks of student roll number 2 : 
+All student marks have been uploaded successfully
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Enter student roll no: 
+
+Consolidated report: 
+Name: xyz
+
+Roll No: 1
+Marks: 
+Subject 1 : Not yet declared
+Subject 2 : Not yet declared
+Subject 3 : Not yet declared
+Subject 4 : 90
+Subject 5 : Not yet declared
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Enter student roll no: 
+
+Consolidated report: 
+Name: qwerty
+
+Roll No: 2
+Marks: 
+Subject 1 : Not yet declared
+Subject 2 : Not yet declared
+Subject 3 : Not yet declared
+Subject 4 : 92
+Subject 5 : Not yet declared
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 

@@ -1,0 +1,36 @@
+
+
+Welcome to Kendriya Vidyalaya Results
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Sub Menu:
+1. Add teacher
+2. Add student
+
+Enter option: 
+
+Enter the details of the teacher to be added: 
+Enter the name of teacher: Enter teacher id number: 
+Enter subject name: 
+Enter subject code: 
+
+Invalid subject code.
+ 
+Enter subject code: 
+
+The teacher is added
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 

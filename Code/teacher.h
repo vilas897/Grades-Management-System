@@ -21,7 +21,7 @@ public:
     cin>>teacherid;
     cout<<"\nEnter subject name: ";
     cin>>subject;
-    cout<<"\nEnter subject code: ";
+    cout<<"\nEnter subject code (1-5): ";
     cin>>subcode;
     subcode = subcode-1;
   }

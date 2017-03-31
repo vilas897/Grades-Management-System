@@ -1,0 +1,52 @@
+
+
+Welcome to Kendriya Vidyalaya Results
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Sub Menu:
+1. Add teacher
+2. Add student
+
+Enter option: 
+
+Enter the details of the student to be added: 
+Enter the name: 
+Enter the roll number: 
+
+The student is added
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
+
+Enter student roll no: 
+
+Consolidated report: 
+Name: vilas
+
+Roll No: 53
+Marks: 
+Subject 1 : Not yet declared
+Subject 2 : Not yet declared
+Subject 3 : Not yet declared
+Subject 4 : Not yet declared
+Subject 5 : Not yet declared
+
+Menu:
+1. Admin
+2. Teacher: Update Marks
+3. Student: Check Results
+4. Exit
+
+Enter option: 
